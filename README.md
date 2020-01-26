@@ -1,0 +1,2 @@
+# Odoo
+funcionalidades de módulos
